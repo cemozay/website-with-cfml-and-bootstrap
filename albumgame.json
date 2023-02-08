@@ -1,0 +1,47 @@
+[
+    {
+        "isim": "Last of Us",
+        "yayınTarihi": 2013,
+        "metascore": 95
+    },
+    {
+        "isim": "God of War",
+        "yayınTarihi": 2018,
+        "metascore": 94
+    },
+    {
+        "isim": "Red Dead Redemption 2",
+        "yayınTarihi": 2018,
+        "metascore": 97
+    },
+    {
+        "isim": "Assassin's Creed 2",
+        "yayınTarihi": 2009,
+        "metascore": 90
+    },
+    {
+        "isim": "Death Stranding",
+        "yayınTarihi": 2019,
+        "metascore": 86
+    },
+    {
+        "isim": "Watch Dogs 2",
+        "yayınTarihi": 2016,
+        "metascore": 82
+    },
+    {
+        "isim": "Marvel's Spider-Man",
+        "yayınTarihi": 2018,
+        "metascore": 87
+    },
+    {
+        "isim": "Celeste",
+        "yayınTarihi": 2018,
+        "metascore": 92
+    },
+    {
+        "isim": "Hollow Knight",
+        "yayınTarihi": 2017,
+        "metascore": 90
+    }
+]

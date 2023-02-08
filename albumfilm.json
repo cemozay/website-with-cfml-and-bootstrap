@@ -1,0 +1,52 @@
+[
+    {
+        "isim": "Fight Club",
+        "yayınTarihi": 1999,
+        "oyuncular": ["Brad Pitt", "Edward Norton"]
+    },
+    {
+        "isim": "Interstellar",
+        "yayınTarihi": 2014,
+        "oyuncular": ["Matthew McConaughey","Anne Hathaway","Jessica Chastain"]
+    },
+    {
+        "isim": "Soul",
+        "yayınTarihi": 2020,
+        "oyuncular": ["Jamie Foxx","Tina Fey"]
+    },
+    {
+        "isim": "Jojo Rabbit",
+        "yayınTarihi": 2019,
+        "oyuncular": ["Roman Griffin Davis","Thomasin McKenzie","Scarlett Johansson","Taika Waititi"]
+    },
+    {
+        "isim": "Bohemian Rhapsody",
+        "yayınTarihi": 2018,
+        "oyuncular": ["Rami Malek","Lucy Boynton"]
+    },
+    {
+        "isim": "Deadpool",
+        "yayınTarihi": 2016,
+        "oyuncular": ["Ryan Reynolds","Morena Baccarin","Ed Skrein"]
+    },
+    {
+        "isim": "Split",
+        "yayınTarihi": 2016,
+        "oyuncular": ["James McAvoy","Anya Taylor-Joy"]
+    },
+    {
+        "isim": "The Wolf of Wall Street",
+        "yayınTarihi": 2013,
+        "oyuncular": ["Leonardo DiCaprio","Jonah Hill","Margot Robbie","Matthew McConaughey"]
+    },
+    {
+        "isim": "Léon: The Professional",
+        "yayınTarihi": 1994,
+        "oyuncular": ["Jean Reno","Natalie Portman"]
+    },
+    {
+        "isim": "La La Land",
+        "yayınTarihi": 2016,
+        "oyuncular": ["Ryan Gosling","Emma Stone"]
+    }
+]
